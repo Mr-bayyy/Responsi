@@ -1,4 +1,4 @@
-# responsi
+# Responsi Pengembangan Aplikasi Mobile Lanjut
 
 A new Flutter project.
 
